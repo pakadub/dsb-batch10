@@ -8,3 +8,6 @@ My data science and analytics projects
 3. R programming
 4. looker
 5. 
+
+## Contact Me
+pakawat.kac@gmail.com
